@@ -1,1 +1,2 @@
 This is dev1.txt file in dev branch.
+In branch dev dev1.txt file modified.
